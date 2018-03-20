@@ -1,0 +1,19 @@
+{
+    "name":"nao-stt",
+    "intents":[],
+    "entities":[],
+    "language":"fr",
+    "metadata":
+    {
+        "api_version":
+        {
+            "major_version":"v1",
+            "minor_version":"2017-05-26"
+        }
+    },
+    "description":"More precise speech recognition with NAO robot",
+    "dialog_nodes":[],
+    "workspace_id":"42bfe9d2-ad33-47d0-870f-27480836ea04",
+    "counterexamples":[],
+    "learning_opt_out":false
+}

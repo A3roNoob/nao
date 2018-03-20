@@ -1,0 +1,32 @@
+{
+    "kind": "customsearch#result", 
+    "title": "Avion — Wikipédia", 
+    "displayLink": "fr.wikipedia.org", 
+    "htmlTitle": "<b>Avion</b> — Wikipédia", 
+    "formattedUrl": "https://fr.wikipedia.org/wiki/Avion", 
+    "htmlFormattedUrl": "https://fr.wikipedia.org/wiki/<b>Avion</b>", 
+    "pagemap": {
+        "metatags": [
+            {
+                "referrer": "origin", 
+                "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/P-51_Mustang_edit1.jpg/1200px-P-51_Mustang_edit1.jpg"
+            }
+        ], 
+        "cse_thumbnail": [
+            {
+                "width": "288", 
+                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-ygSRVTMYCFOAF-guP3CFpIFNaMbKqzv1m_D6oELqe3WMKZpSQl_d-54", 
+                "height": "175"
+            }
+        ], 
+        "cse_image": [
+            {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/P-51_Mustang_edit1.jpg/1200px-P-51_Mustang_edit1.jpg"
+            }
+        ]
+    }, 
+    "snippet": "Un avion est un aérodyne (un aéronef plus lourd que l'air), entraîné par un \npropulseur, dont la portance aérodynamique est obtenue par des surfaces fixes. \nLorsque la portance est obtenue (à l'arrêt ou en mouvement) par des surfaces en \nrotation, l'appareil est alors dit à « voilure tournante » (hélicoptère, autogire, ...", 
+    "htmlSnippet": "Un <b>avion</b> est un aérodyne (un aéronef plus lourd que l&#39;air), entraîné par un <br>\npropulseur, dont la portance aérodynamique est obtenue par des surfaces fixes. <br>\nLorsque la portance est obtenue (à l&#39;arrêt ou en mouvement) par des surfaces en <br>\nrotation, l&#39;appareil est alors dit à « voilure tournante » (hélicoptère, autogire,&nbsp;...", 
+    "link": "https://fr.wikipedia.org/wiki/Avion", 
+    "cacheId": "sMaLXbkFVSEJ"
+}

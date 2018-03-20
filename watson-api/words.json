@@ -1,0 +1,19 @@
+{
+    "words": [{
+      "display_as": "lampe",
+      "sounds_like": [ "lent", "lente" ],
+      "word": "lampe"
+    }, {
+      "display_as": "spotify",
+      "sounds_like": [ "ce petit fail" ],
+      "word": "spotify"
+    }, {
+      "display_as": "lumière",
+      "sounds_like": [ "lumière" ],
+      "word": "lumière"
+    }, {
+      "display_as": "clignotante",
+      "sounds_like": [ "clignotante" ],
+      "word": "clignotante"
+    }]
+}
